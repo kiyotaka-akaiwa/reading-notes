@@ -63,3 +63,35 @@ Amygdala Hijacking can be fixed by taking some moment to relax before making a d
  5. Evaluate
 
 
+### Chapter 3 - Influence and Manipulation
+
+Influence is positive and Manipulation is negative. Most decisions lies in-between theses 2.
+ - **Rapport** - Ability to build a relationship with another person. It is necessary for Influence but not for Manipulation
+
+Training should primarily use influence as manipulation can cause psychological damage. However, real-world attackers will be using manipulations.
+
+Deception - Can either be an influence or manipulation.
+Punishment - Manipulation that compels the target into desired behaviors as a result of negative consequences.
+
+Influence
+ - **Reciprocity** - Pervasive belief that people deserves to be paid for what they do.
+ - **Obligation** - Influence through customs, manners, feelings, and roles.
+ - **Concession** - When the target yields once, he tends to continue to yield.
+ - **Scarcity** - Making something look more rare.
+ - **Authority** - Power to make decision, such as legelity, charisma, or credibility
+ - **Consistency and Commitment** - After a person stepped over a behavioral boundary, they are more likely to complete the chosen course.
+ - **Liking** - People tend to like people that likes them, and are similar to them
+ - **Social Proof** - Human's natural tendency to look to others to guide their behaviors in an ambiguous situations
+
+Providing any reason increases the chance of the request to be accepted
+
+Manipulation
+ - Increase susceptibility
+ - Environmental control
+ - Forced re-evaluation
+ - Removal of power
+ - Punishment
+ - Intimidation
+
+
+ 
