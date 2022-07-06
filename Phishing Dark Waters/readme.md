@@ -177,3 +177,12 @@ Phishing Program
  - Thoughtful
 
 
+### Chapter 6 - The Good, the Bad, and the Ugly: Policies and More
+
+Policy must be properly and appropriately.
+The boss cannot be exempt from the phishing program. 
+Phishing program must involve everyone in the company.
+Phishing education must occur repeatedly
+Make it easy to report phishing emails.
+Don't make a limitation on the day not to phish.
+Don't have the target delete the phishing email. Have a place to report them.
