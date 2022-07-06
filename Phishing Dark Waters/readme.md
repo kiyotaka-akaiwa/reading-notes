@@ -186,3 +186,19 @@ Phishing education must occur repeatedly
 Make it easy to report phishing emails.
 Don't make a limitation on the day not to phish.
 Don't have the target delete the phishing email. Have a place to report them.
+
+
+### Chapter 7 - The Professional Phisher's Tackle Bag
+
+Commercial Applications
+ - Rapid7 Metasploit Pro
+ - ThreatSim
+ - PhishMe
+ - Wombat PhishGuru
+ - PhishLine
+
+Open Source Applications
+ - SET (Social-Engineer Toolkit)
+ - Phishing Frenzy
+
+Consider if the system will be maintained in-hourse or by a third-party
