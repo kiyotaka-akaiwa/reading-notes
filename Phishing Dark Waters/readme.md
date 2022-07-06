@@ -130,10 +130,50 @@ Although email headers contain valuable information about phishing, attacker can
 
 Some malwares can bypass sandbox.
 
-
 What not to do
  - Copy and paste the URL - Although it is viable, there are many factors of it going wrong, and it is not worth the risk.
  - Forwarding potential phishing email - Forwarding emails online spreads the phishing email
  - Open attachment in phone - Contrary to popular belief, many malware exists for phones as well
  - Fully rely on AV - Antivirus cannot stop all virus
+
+
+### Chapter 5 - Plan Your Phishing Trip: Creating the Enterprise Phishing Program
+
+Motivation for a phishing program
+ - Compliance
+ - Increase Security Awareness
+ - Recent Experience in Security Incident
+ - Part of Penetration Test
+
+Themes
+ - Generic (Don't spend too much time)
+ - Media/News
+ - External - Attackers research third party vendors to create a more sophisticated phishing email.
+ - Internal (Start simple and gradually make it more difficult) - Attackers can use URL similar to corporate URL
+
+Whether it is legal for adding real logos to a phishing email remains controversial.
+It is important to consult the company lawyer if it is okay.
+
+Phishing Program
+ - Setting a baseline
+   - Warned Baseline - Let the target know that phishing program is starting. 
+   - Surprise Phish Baseline - Start sending phishing email without letting them know
+ - Setting the difficulty level
+   - Level 1 - Easy to identify, such as 419 scam
+   - Level 2 - A little more sophisticated, but not personal
+   - Level 3 - Personalized with brandings
+   - Level 4 - Spear Phishing
+ - Writing the phish - Don't make it too sensitive
+ - Tracking and statistics - Choose a tracking software based on the statistics you want
+   - Number of people who clicked
+   - Number of people who reported the phish
+ - Reporting - Explain why the phishing program is worth the investment
+ - Repeating
+
+**BEST Method**
+ - Brief
+ - Effective
+ - Simple
+ - Thoughtful
+
 
