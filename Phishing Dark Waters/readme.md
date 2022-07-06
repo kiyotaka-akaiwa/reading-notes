@@ -94,4 +94,46 @@ Manipulation
  - Intimidation
 
 
- 
+### Chapter 4 - Lessons in Protection
+
+#### Lesson One: Critical Thinking
+
+Critical Thinking - To not accept everything at face value
+ - Does the email come from someone I know?
+ - Was I expecting this email?
+ - Are the requests reasonable?
+ - Does the email employ emotional content?
+ - Does the email try to get me to take an action?
+
+Attacker will use Amygdala Hijacking to stop the targets from thinking critically.
+
+#### Lesson Two: Learn to Hover
+
+Hovering over a link will show the URL the link will redirect to.
+However, sophisticated attacker can defeat this hovering, so it is important to double check the URL after accessing the website.
+
+If you noticed that the website is malicious after clicking, think back what the email was asking you to do. If it was asking for a credential, change all account that uses the same credential. If it was asking to install a program, clean your computer and change all accounts from another clean computer.
+
+Attacker may compromise mail servers to send out phishing email from legitimate address.
+
+#### Lesson Three: URL Deciphering
+
+Attackers can buy domains that look legitimate or that looks closely linked.
+
+#### Lesson Four: Analyzing E-mail Headers
+
+Although email headers contain valuable information about phishing, attacker can gain access to legitimate computers and send emails from a legitimate email.
+
+#### Lesson Five: Sandboxing
+
+**Sandboxing** - Creating an environment where one can run untested codes
+
+Some malwares can bypass sandbox.
+
+
+What not to do
+ - Copy and paste the URL - Although it is viable, there are many factors of it going wrong, and it is not worth the risk.
+ - Forwarding potential phishing email - Forwarding emails online spreads the phishing email
+ - Open attachment in phone - Contrary to popular belief, many malware exists for phones as well
+ - Fully rely on AV - Antivirus cannot stop all virus
+
