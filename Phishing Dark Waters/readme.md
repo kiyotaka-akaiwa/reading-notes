@@ -202,3 +202,20 @@ Open Source Applications
  - Phishing Frenzy
 
 Consider if the system will be maintained in-hourse or by a third-party
+
+
+### Chapter 8 - Phish Like a Boss
+
+If you're at home and you don't know the sender of an email, don't open it
+If the email comes from someone you know, think before opening link or attachments
+Never provide credentials or PII through email
+
+Use websites like www.apwg.org and www.social-engineer.com to stay up to date with the current phishing methodologies.
+Add phishing education into security awareness programs.
+
+Set realistic goals for the organization
+ - Time frame
+ - Metrics
+Plan the program
+Understand the Stats
+Respond Appropriately
